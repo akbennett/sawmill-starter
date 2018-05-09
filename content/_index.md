@@ -1,5 +1,5 @@
 +++
-title = "Sawmill: A Modular Layout Builder for Hugo and Forestry.io"
+title = "The OSF Sawmill"
 type = "page"
 [[blocks]]
 background_image = "/uploads/2018/04/20/logs-splash.png"
